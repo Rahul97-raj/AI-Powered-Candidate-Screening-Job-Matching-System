@@ -1,0 +1,21 @@
+Python / AI Intern
+
+Required:
+- Python
+- SQL
+- Pandas
+- NumPy
+- REST APIs
+- Basic Machine Learning
+- Git
+
+Nice to have:
+- LLM APIs
+- Pydantic
+- Streamlit
+
+Responsibilities:
+- Build Python data and AI workflows.
+- Process structured and unstructured data.
+- Work with APIs and data libraries.
+- Develop and test simple ML/LLM applications.
